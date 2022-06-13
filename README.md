@@ -1,46 +1,55 @@
-# Getting Started with Create React App
+<div id="topo"></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ST Money
 
-## Available Scripts
+## Visualização
 
-In the project directory, you can run:
+<h1 align="center">
+<img alt="Demonstração da utilização do site" title="Demonstração da utilização do site" src="./public/primeflix-demo.gif" width="100%"/>
+</h1>
 
-### `npm start`
+<p align="center">
+<a href="https://claraflix.netlify.app/">Acesse a página 🎉</a>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 💻 Projeto
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O ST Money foi um projeto realizado com o objetivo de colocar em prática conhecimentos iniciais sobre requisição de API e navegação entre páginas (rotas). Nele é possível ter acesso a informações sobre vários filmes, ver a sinopse e assistir ao trailer de cada um. Além disso, há uma lista de favoritos, na qual podemos adicionar e remover filmes. 
 
-### `npm test`
+Os principais desafios desse projeto foram a requisição de API e entender a lógica de funcionamento.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Este projeto é uma alternativa simples e eficaz para gerenciar suas finanças, permitindo o cadastro de entradas, saídas e a organização das mesmas em categorias.
 
-### `npm run build`
+## 🧬 Tecnologias
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+* [React (base do projeto)](https://pt-br.reactjs.org/)
+* [Styled-Components](https://styled-components.com/)
+* [Typescript](https://www.typescriptlang.org/)
+* [Axios](https://www.npmjs.com/package/axios)
+* [MirageJs](https://miragejs.com/)
+* [React Modal](http://reactcommunity.org/react-modal/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📖 Conhecimento
+Com o ST Money, aprendi a utilizar: 
+* `axios` para requisição HTTP; (Biblioteca especializada em requisições HTTP)
+* `hooks` para montar o que será exibido na tela e armazenar os filmes no storage; 
+* `MirageJS` para construir uma API fake dentro do Front-End;
+* `react-modal`, que traz funcionalidades prontas de modal.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Utilização do projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 💾 Baixar o projeto
+Faça o clone do repositório para ter uma versão do projeto em sua máquina:<br/>
+`$ git clone https://github.com/mmanaclara/primeflix.git`
 
-### `npm run eject`
+### 🧰 Instalar dependências
+`$ npm install ou yarn`  
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### 🚀 Iniciar o projeto
+`$ npm start ou yarn start`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📝 Licença
+Este projeto está licenciado nos termos da licença [MIT](https://github.com/mmanaclara/primeflix/blob/main/MIT%20LICENSE). 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<p align="center"><a href="#topo">⬆</a></p>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
