@@ -9,7 +9,7 @@
 
 ## 💻 Projeto
 
-O ST Money foi um projeto feito em ReactJS com o objetivo de colocar em prática conhecimentos sobre Typescript, requisição de API, contexto e styled-components. Ele é um projeto de controle de finanças pessoais, permitindo o cadastro de entradas, saídas e a visualização do total em caixa. Cada transação tem descrição, valor, tipo, categoria e data de realização, de forma a facilitar sua identificação.
+O ST Money foi um projeto feito em ReactJS com o objetivo de colocar em prática conhecimentos sobre Typescript, requisição de API, contexto e styled-components. Ele é uma aplicação de controle de finanças pessoais, permitindo o cadastro de entradas, saídas e a visualização do total em caixa. Cada transação tem descrição, valor, tipo, categoria e data de realização, de forma a facilitar sua identificação.
 
 ## 🧬 Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
