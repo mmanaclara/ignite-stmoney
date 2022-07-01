@@ -3,12 +3,9 @@
 ## Visualização | ST Money
 
 <h1 align="center">
-    <img alt="Visualização do site" title="Demonstração da utilização do site" src="./public/st-money.gif" width="80%"/>
+    <img alt="Visualização do site" title="Visualização do site" src="./public/st-money.gif" width="80%"/>
 </h1>
 
-<p align="center">
-<a href="/">Acesse a página 💰</a>
-</p>
 
 ## 💻 Projeto
 
